@@ -1,9 +1,8 @@
 streamlit==1.25.0
 opencv-python==4.9.0.80
-numpy==1.24.4
-pandas==1.5.3
+numpy==1.26.4
+pandas==2.2.0
 requests==2.31.0
-blinker==1.6.2
 charset-normalizer==3.3.2
 certifi==2023.11.17
 cachetools==5.3.1
