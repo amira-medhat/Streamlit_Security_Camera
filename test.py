@@ -1,3 +1,6 @@
+import os
+os.system("pip install --upgrade pip")
+
 import streamlit as st
 import cv2
 import numpy as np
